@@ -1,4 +1,4 @@
-# Telecom Churn
+# Telecom Churn Project
 ## The aim of this project is to build a model which can predict wheather a custmoer will churn(leave the netwrok). The dataset conatins information about a customers cellular transactions for the months June(6) to September(9). We need to predict of the customer will churn in September using the data from month 6 to 8.
 
 * ### The dataset can be download from [this link](https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view).
