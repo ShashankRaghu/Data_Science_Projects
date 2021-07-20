@@ -1,7 +1,7 @@
 # Parts of Speech Tagger
 ## To build a model which can predict the parts of speech of a sentence
 
-- ### The dataset can used in the NLTK corpora, which contains sentences, and POS of each word.
+- ### The dataset used is from the NLTK corpora, which contains sentences, and POS of each word.
 - ### The sentences are converted to intergers using Tokenizer() function of Keras.
 ![POSTagger](https://user-images.githubusercontent.com/77088516/126310867-b375f2e7-fc8c-4618-a350-e2bd3e29dc8e.PNG)
 - ### We have further padded the sentences to 100 words, by using pre padding and post truncating.
